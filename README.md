@@ -1,11 +1,13 @@
-![image](https://github.com/user-attachments/assets/b8e8c470-bfb5-468b-899e-e69ed15f3121)# 💼💰 Cálculo de Impostos com Abstração em Java
+# 💼💰 Cálculo de Impostos com Abstração em Java
 
 Este projeto em Java foi desenvolvido como exercício de **abstração com herança e polimorfismo** do curso de Java do grande professor Nelio Alves, focado no cálculo de impostos pagos por diferentes tipos de contribuintes. 
 ## 🎯Enunciado:
 ![image](https://github.com/user-attachments/assets/519f7438-b064-457d-a5e0-4dc03a89b111)
 
 ## 📌 Resultado esperado:
-![image](https://github.com/user-attachments/assets/5883bf1a-a1e5-4ce1-8a8e-3ffeef3a5be0)
+![image](https://github.com/user-attachments/assets/d4fc7768-63ff-4779-a081-48e1c8bddc6a)
+![image](https://github.com/user-attachments/assets/a11a44f0-dcd2-492e-a52b-e03dc0e991ce)
+
 
 ## 👤 Pessoa Física
 - Paga 15% se a renda anual for abaixo de R$20.000.
